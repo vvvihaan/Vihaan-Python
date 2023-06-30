@@ -1,0 +1,20 @@
+{
+  "files": {
+    ".gitignore": [
+      {
+        "id": "a35a52a3-7c9c-4100-92a6-68b04ff32f78",
+        "line": 4,
+        "version": 1,
+        "index": 21
+      }
+    ],
+    "Loops/sumofdigit.py": [
+      {
+        "id": "f856e8b5-4963-481a-97d0-a58750ee413e",
+        "line": 2,
+        "version": 439,
+        "index": 71
+      }
+    ]
+  }
+}
